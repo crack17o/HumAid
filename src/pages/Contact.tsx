@@ -102,7 +102,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div className="contact-info__content">
                     <Typography variant="h4" className="contact-info__label">Téléphone</Typography>
-                    <Typography variant="body" className="contact-info__value">+33 1 23 45 67 89</Typography>
+                    <Typography variant="body" className="contact-info__value">+243 1 23 45 67 89</Typography>
                   </div>
                 </div>
                 
@@ -113,8 +113,8 @@ const Contact: React.FC = () => {
                   <div className="contact-info__content">
                     <Typography variant="h4" className="contact-info__label">Adresse</Typography>
                     <Typography variant="body" className="contact-info__value">
-                      123 Rue de la Solidarité<br />
-                      75001 Paris, France
+                      123 Rue Humaid<br />
+                      75001 Kinshasa, RDC
                     </Typography>
                   </div>
                 </div>
